@@ -1,7 +1,5 @@
-# Inventory-analysis-dashboard-powerbi
-Inventory Analysis Dashboard using Power BI to identify stockout risks and reorder points.
-
 # 📊 Inventory Analysis Dashboard - Power BI
+Inventory Analysis Dashboard using Power BI to identify stockout risks and reorder points.
 
 ## Overview
 
@@ -33,7 +31,7 @@ The objective of this project was to create a dashboard capable of:
 
 ## Key Performance Indicators (KPIs)
 
-![Inventory KPIs](Images/inventory-kpis.jpg)
+![Inventory KPIs](Images/Inventory-kpis.jpg)
 
 The dashboard includes:
 
