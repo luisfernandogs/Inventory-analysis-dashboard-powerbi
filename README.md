@@ -1,121 +1,125 @@
-# 📊 Inventory Analysis Dashboard - Power BI
-Inventory Analysis Dashboard using Power BI to identify stockout risks and reorder points.
+# 📊 Dashboard de Análisis de Inventarios - Power BI
 
-## Overview
+Dashboard de análisis de inventarios desarrollado en Power BI para identificar riesgos de desabastecimiento y monitorear puntos de reorden.
 
-This project was developed to monitor inventory levels and identify products at risk of stockout through inventory analytics and reorder point monitoring.
+## Descripción General
 
-The dashboard helps support purchasing and replenishment decisions by providing visibility into stock levels, demand, and inventory status.
+Este proyecto fue desarrollado para monitorear los niveles de inventario e identificar productos con riesgo de quiebre de stock mediante análisis de inventarios y seguimiento de puntos de reorden.
 
----
-
-## Business Problem
-
-Inventory shortages can affect operational continuity, customer satisfaction, and sales performance.
-
-The objective of this project was to create a dashboard capable of:
-
-* Monitoring inventory levels
-* Tracking daily demand
-* Identifying stockout risks
-* Supporting replenishment decisions
-* Generating purchase alerts
+El dashboard apoya la toma de decisiones de compra y reabastecimiento al proporcionar visibilidad sobre los niveles de inventario, la demanda y el estado de los productos.
 
 ---
 
-## Dashboard Overview
+## Problema de Negocio
+
+La falta de inventario puede afectar la continuidad operativa, la satisfacción de los clientes y el desempeño de las ventas.
+
+El objetivo de este proyecto fue crear un dashboard capaz de:
+
+* Monitorear los niveles de inventario.
+* Dar seguimiento a la demanda diaria.
+* Identificar riesgos de desabastecimiento.
+* Apoyar las decisiones de reabastecimiento.
+* Generar alertas de compra.
+
+---
+
+## Vista General del Dashboard
 
 ![Dashboard](Images/Dashboard-overview.jpg)
 
 ---
 
-## Key Performance Indicators (KPIs)
+## Indicadores Clave de Desempeño (KPIs)
 
 ![Inventory KPIs](Images/Inventory-kpis.jpg)
 
-The dashboard includes:
+El dashboard incluye:
 
-* Current Stock
-* Daily Demand
-* Reorder Point
-* Inventory Value
-* Purchase Alert
-* Entries and Exits Analysis
+* Inventario Actual
+* Demanda Diaria
+* Punto de Reorden
+* Valor del Inventario
+* Alerta de Compra
+* Análisis de Entradas y Salidas
 
 ---
 
-## Key Finding
+## Hallazgo Principal
 
-The analysis identified a product with:
+El análisis identificó un producto con las siguientes características:
 
-| Metric        | Value |
-| ------------- | ----- |
-| Current Stock | 1     |
-| Reorder Point | 2     |
-| Daily Demand  | 1     |
+| Métrica           | Valor |
+| ----------------- | ----- |
+| Inventario Actual | 1     |
+| Punto de Reorden  | 2     |
+| Demanda Diaria    | 1     |
 
 ![Dispersion Chart](Images/Dispersion-Chart.jpg)
 
-### Interpretation
+### Interpretación
 
-The product inventory is currently below the reorder point.
+El inventario actual del producto se encuentra por debajo del punto de reorden.
 
-Given the observed daily demand, the available inventory may be depleted in approximately one day if replenishment is not performed.
+Considerando la demanda diaria observada, el inventario disponible podría agotarse aproximadamente en un día si no se realiza un reabastecimiento oportuno.
 
-This situation indicates a potential stockout risk.
-
----
-
-## Business Recommendations
-
-### Short Term
-
-* Generate a purchase order.
-* Monitor inventory daily.
-
-### Medium Term
-
-* Introduce safety stock policies.
-* Review replenishment frequencies.
-
-### Long Term
-
-* Implement demand forecasting.
-* Develop ABC inventory classification.
-* Analyze inventory turnover.
+Esta situación representa un riesgo potencial de desabastecimiento.
 
 ---
 
-## Tools Used
+## Recomendaciones de Negocio
+
+### Corto Plazo
+
+* Generar una orden de compra.
+* Monitorear diariamente el nivel de inventario.
+
+### Mediano Plazo
+
+* Implementar políticas de stock de seguridad.
+* Revisar las frecuencias de reabastecimiento.
+
+### Largo Plazo
+
+* Implementar modelos de pronóstico de demanda.
+* Desarrollar una clasificación ABC de inventarios.
+* Analizar la rotación de inventario.
+
+---
+
+## Herramientas Utilizadas
 
 * Microsoft Excel
 * Power BI
 * DAX
-* Data Modeling
-* Data Visualization
+* Modelado de Datos
+* Visualización de Datos
 
 ---
 
-## Documentation
+## Documentación
 
-Project documentation is available in the Documentation folder:
+La documentación del proyecto se encuentra disponible en la carpeta **Documentation**:
 
 * Inventory_Dashboard_Case_Study.docx
 * Inventory_Dashboard_Case_Study.pdf
 
 ---
 
-## Future Improvements
+## Mejoras Futuras
 
-* ABC Classification
-* Safety Stock Calculation
-* Demand Forecasting
-* Supplier Performance Analysis
-* Inventory Turnover Metrics
+* Clasificación ABC
+* Cálculo de Stock de Seguridad
+* Pronóstico de Demanda
+* Análisis de Desempeño de Proveedores
+* Métricas de Rotación de Inventario
 
 ---
 
-## Author
+## Autor
 
 Luis Fernando Guzmán Suárez
 DATA ANALYST JUNIOR | EXCEL | POWER BI | SQL | Estadística aplicada | Lean Six Sigma Yellow Belt
+
+
+
