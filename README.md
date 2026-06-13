@@ -32,7 +32,7 @@ The objective was to create a dashboard capable of:
 
 ## Dashboard Preview  
 
-![Dashboard](Images/Dashboard-overview.png)
+![Dashboard](Images/Dashboard-overview.jpg)
 
 ## Key Finding
 
