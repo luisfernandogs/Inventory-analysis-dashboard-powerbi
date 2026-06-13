@@ -54,6 +54,8 @@ The analysis identified a product with:
 | Reorder Point | 2     |
 | Daily Demand  | 1     |
 
+![Dispersion](Images/Dispersion Chart to Identify Products at Risk of Stockout.jpg)
+
 ### Interpretation
 
 The product inventory is currently below the reorder point.
