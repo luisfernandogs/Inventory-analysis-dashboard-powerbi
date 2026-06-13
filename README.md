@@ -54,7 +54,7 @@ The analysis identified a product with:
 | Reorder Point | 2     |
 | Daily Demand  | 1     |
 
-![Dispersion Chart](Images/Dispersion Chart to Identify Products at Risk of Stockout.jpg)
+![Dispersion Chart](Images/Dispersion-Chart.jpg)
 
 ### Interpretation
 
