@@ -119,7 +119,7 @@ La documentación del proyecto se encuentra disponible en la carpeta **Documenta
 ## Autor
 
 Luis Fernando Guzmán Suárez
-DATA ANALYST | EXCEL | POWER BI | SQL | Estadística aplicada | Lean Six Sigma Yellow Belt
+DATA ANALYST | EXCEL | POWER BI | SQL | Python | Estadística aplicada | Minería de datos | Lean Six Sigma Yellow Belt
 
 
 
